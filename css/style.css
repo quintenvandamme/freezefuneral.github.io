@@ -9,4 +9,29 @@ body {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 8px;
+    background: darkcyan;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container h1 {
+    font-size: xx-large;
+    padding: 0;
+    margin: 0 auto;
+}
+
+* {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    background: black;
+    border-radius: 25px;
+    padding: 5px;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    text-align: center;
 }
