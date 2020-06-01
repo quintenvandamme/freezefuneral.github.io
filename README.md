@@ -7,3 +7,9 @@ FreezeFuneral uses a simple JavaScript function to overload the browser with req
 - [timanttikuutio](https://github.com/timanttikuutio) - Testing
 
 - [richardred15](https://github.com/richardred15) - Testing
+
+- [eitan3085](https://github.com/eitan3085)
+
+- [WilsonTheWolf](https://github.com/WilsonTheWolf)
+  
+- [CommanderNeon10](https://github.com/CommanderNeon10)
