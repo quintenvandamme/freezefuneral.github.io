@@ -1,3 +1,12 @@
 body {
     background-image: url("https://media1.tenor.com/images/5c695fdb0c853ac734fd0d186a4aef55/tenor.gif");
 }
+
+.container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
